@@ -1,1 +1,5 @@
-user name  : charan
+Student Registration Feature
+Student Name:charan
+Student ID:252
+Course:mca
+Email:saicharanbandaru2003@gmail.com
